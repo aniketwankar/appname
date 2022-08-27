@@ -42,15 +42,15 @@ export default function Profile() {
                   <Typical
                     loop={Infinity}
                     steps={[
-                      "Ethusiastic Dev",
+                      "Ethusiastic Dev 😄 ",
                       1000,
-                      "full Stack Dev",
+                      "full Stack Dev 🌐",
                       1000,
-                      "MERN Dev",
+                      "MERN Dev 🌾",
                       1000,
-                      "Cross Platform Dev.",
+                      "Cross Platform Dev 💻",
                       100,
-                      "React/React Native Dev",
+                      "React/React Native Dev 🏰",
                       1000,
                     ]}
                   />
